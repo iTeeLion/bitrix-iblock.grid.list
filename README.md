@@ -1,0 +1,1 @@
+# bitrix-iblock.grid.list
